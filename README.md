@@ -1,14 +1,33 @@
-### Hi there 👋
+# Hi there, I'm Girija Gurung 👋
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 Currently working on: [Current projects/focus areas]
+- 🌱 Learning: [Technologies/skills you're learning]
+- 💬 Ask me about: [Your expertise areas]
+- 📫 How to reach me: [Email/contact info]
+- 🎯 Goal: [Your professional goals]
 
-- 🔭 I’m currently working on dart and flutter
-- 🌱 I’m currently learning ai in flutter
-- 👯 I’m looking to collaborate on new project
-- 🤔 I’m looking for help with my new project
-- 💬 Ask me about dart
-- 📫 How to reach me: giri.gurung20@gmail.com
-- 😄 Pronouns: him
-- ⚡ Fun fact: 
+## 🛠️ Tech Stack
+**Languages:** JavaScript, Python, Java, etc.
+**Frontend:** React, Vue, etc.
+**Backend:** Node.js, Django, etc.
+**Tools:** Git, Docker, AWS, etc.
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=girija870&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Girija GitHub stats" />
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=girija870&show_icons=true&theme=dark)
+
+## 🏆 Featured Projects
+- **[Project Name](link)** - Brief description
+- **[Project Name](link)** - Brief description
+
+## 📚 Recent Articles
+- [Article Title](link)
+- [Article Title](link)
+
+## 🤝 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](your-twitter)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email)
+
+---
+⭐ Feel free to explore my repositories and don't hesitate to reach out!
