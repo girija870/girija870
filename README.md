@@ -253,6 +253,5 @@ solutions that drive real business impact while maintaining technical purity."
 
 <sub>💻 Engineering Excellence with ❤️</sub>
 
-<sub>Last Updated: February 2026</sub>
 
 </div>
